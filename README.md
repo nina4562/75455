@@ -26,4 +26,4 @@
 
 所有视频均可在线播放，无需注册、无广告干扰，播放过程流畅不卡顿，支持手机与电脑全端访问，给你极致舒适的观影体验。我们还提供快速搜索与智能推荐系统，帮助你更快找到心仪作品。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/nina4562/75455 ）</span>
